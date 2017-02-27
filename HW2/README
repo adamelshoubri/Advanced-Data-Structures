@@ -1,1 +1,11 @@
+The 2nd Assignment is to; get the Nth element from the singly linked list.
 
+ie) GetNth(int index)
+
+Example: Say, Input: 1,2,3,4,5,6,7,8
+
+                        Index: 5
+
+                        Output: 6
+
+                        Node at index 5 is: 6

@@ -1,0 +1,15 @@
+import java.util.Arrays;
+
+public class US_States {
+
+   public static void main (String [] args) {
+   
+      String [] states = {"New Jersey", "New York", "California", "Florida", "Washington"};
+      
+      Arrays.sort(states);
+            
+      for(String str: states) {
+         System.out.println(str);
+      }
+   }
+}
